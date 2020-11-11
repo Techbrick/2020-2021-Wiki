@@ -1,2 +1,2 @@
 # 2021-Wiki
-Team wiki for 2020-2021 season
+Nothing to see here, head to [the wiki](https://github.com/Techbrick/2021-Wiki/wiki).
